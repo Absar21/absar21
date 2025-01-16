@@ -15,5 +15,4 @@ For some reaseon it is not showing on my profile,"<h1 align="center">Hi 👋, I'
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=absar21&show_icons=true&locale=en" alt="absar21" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=absar21&" alt="absar21" /></p>
-"
+
