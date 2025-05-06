@@ -32,7 +32,8 @@
   <strong>Tech Stack:</strong> React.js, Node.js, MongoDB, Vercel<br>
   <strong>Achievements:</strong> Built an AI voicemail assistant that handles missed calls, gathers info, books appointments, and integrates with CRMs. Fully encrypted and secure.
 </p>
-<p>---------------------------------------------------------------------------------------------------------------------------------</p>
+<hr style="border: none; height: 2px; background-color: #ccc; margin-top: 40px;" />
+
 
 <!-- Project 2 -->
 <p><strong>BlockVote: A Decentralized Voting Application</strong><br>
