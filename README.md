@@ -34,6 +34,20 @@
 </p>
 <hr style="border: none; height: 2px; background-color: #ccc; margin-top: 40px;" />
 
+<!-- Project 2 -->
+<div align="center">
+  <h1><strong>Real-Time AI Medical Consultation App</strong></h1>
+  <a href="https://medical-frontend-phi.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/Absar21/absar21/refs/heads/main/AI-realmedic.JPG"
+         alt="Real-Time AI Medical Consultation App"
+         style="width: 100%; max-width: 600px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+</div>
+<p>
+  <strong>Tech Stack:</strong> React.js, Node.js, Express, MongoDB, OpenAI API<br>
+  <strong>Achievements:</strong> Developed a real-time medical consultation app using AI that provides instant, context-aware healthcare advice. Enabled secure, encrypted user interactions and improved response accuracy with intelligent symptom interpretation.
+</p>
+<hr style="border: none; height: 2px; background-color: #ccc; margin-top: 40px;" />
 
 <!-- Project 2 -->
 <p><strong>BlockVote: A Decentralized Voting Application</strong><br>
