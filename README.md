@@ -49,6 +49,22 @@
 </p>
 <hr style="border: none; height: 2px; background-color: #ccc; margin-top: 40px;" />
 
+<!-- Project 3 -->
+<div align="center">
+  <h1><strong>CallUp.ai – Smart AI Calling Platform</strong></h1>
+  <a href="https://callup.ai" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/Absar21/absar21/refs/heads/main/callup.JPG"
+         alt="CallUp.ai"
+         style="width: 100%; max-width: 600px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  </a>
+</div>
+<p>
+  <strong>Tech Stack:</strong> React.js, Node.js, MongoDB, Twilio, OpenAI, Vercel<br>
+  <strong>Achievements:</strong> Created an AI-powered platform that simulates human-like phone conversations for businesses. Used to automate customer service, lead qualification, and scheduling—significantly reducing manual intervention and call center costs.
+</p>
+<hr style="border: none; height: 2px; background-color: #ccc; margin-top: 40px;" />
+
+
 <!-- Project 2 -->
 <p><strong>BlockVote: A Decentralized Voting Application</strong><br>
 Tech Stack: React.js, Node.js, MongoDB, Polygon (Ethereum Layer 2)<br>
