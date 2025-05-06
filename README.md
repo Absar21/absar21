@@ -19,6 +19,10 @@
 
 <h3 align="left">Portfolio Projects:</h3>
 <ul>
+  <li><a href="https://teleai.vercel.app/" target="_blank" rel="noopener"> <img src="https://raw.githubusercontent.com/Absar21/absar21/refs/heads/main/AI-medic.jpg" alt="AI-Powered Voicemail Assistant" style="width: 200px; height: auto; display: block; margin-bottom: 0.5em; border-radius: 8px;" /> </a>:contentReference[oaicite:10]{index=10} <b> <a href="https://teleai.vercel.app/" target="_blank" rel="noopener" style="text-decoration: none; color: inherit;"> AI-Powered Voicemail Assistant for Businesses </a> </b><br>:contentReference[oaicite:13]{index=13}
+<i>Tech Stack:</i> React.js, Node.js, MongoDB, Vercel
+
+<i>Achievements:</i> Developed an AI-driven voicemail assistant that transforms missed business calls into interactive conversations. The system intelligently understands caller intent, gathers essential information, schedules appointments in real-time, and integrates seamlessly with calendars and CRMs. All interactions are end-to-end encrypted, ensuring data privacy and security.</li>
   <li>
     <b>BlockVote: A Decentralized Voting Application</b><br>
     <i>Tech Stack:</i> React.js, Node.js, MongoDB, Polygon (Ethereum Layer 2)<br>
