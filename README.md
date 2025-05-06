@@ -21,17 +21,18 @@
 
 <!-- Project 1 -->
 <div align="center">
+  <H1><strong>AI-Powered Voicemail Assistant for Businesses</strong></H1>
   <a href="https://teleai.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/Absar21/absar21/refs/heads/main/AI-medic.jpg"
          alt="AI-Powered Voicemail Assistant"
          style="width: 100%; max-width: 600px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
   </a>
 </div>
-<p><strong>AI-Powered Voicemail Assistant for Businesses</strong></p>
 <p>
   <strong>Tech Stack:</strong> React.js, Node.js, MongoDB, Vercel<br>
   <strong>Achievements:</strong> Built an AI voicemail assistant that handles missed calls, gathers info, books appointments, and integrates with CRMs. Fully encrypted and secure.
 </p>
+<p>---------------------------------------------------------------------------------------------------------------------------------</p>
 
 <!-- Project 2 -->
 <p><strong>BlockVote: A Decentralized Voting Application</strong><br>
